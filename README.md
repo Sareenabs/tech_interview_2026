@@ -1,2 +1,1 @@
-"# tech_team_interview" 
-"# tech_team_interview" 
+"# selection_interview" 
