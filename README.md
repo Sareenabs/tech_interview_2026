@@ -42,3 +42,4 @@ A simple and responsive event website created for showcasing upcoming technical 
 
    SAREENA B S
 
+-> https://sareenabs.github.io/tech_interview_2026/
